@@ -1,4 +1,7 @@
 “This is the readme file for the tutorial repository.”
-"change added in dazzling_feature"
-change made as collaborator.
-change made in maste branch.
+add any thing you like 
+
+change as collaborator. :D
+
+change made dazzling_feature - provoke confillict. :D
+
